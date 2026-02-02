@@ -1,2 +1,2 @@
 # QRScanner
-Unlock the power of QR codes and barcodes with our feature-packed QR Code Scanner &amp; Barcode Creator app. Whether you need to scan QR codes to access websites, decode product barcodes, create custom QR codes, or make seamless UPI transactions with popular payment apps like PhonePe, Paytm, and Google Pay, this app has you covered. 
+Unlock the power of QR codes and barcodes with our feature-packed QR Code Scanner & Barcode Creator app. Whether you need to scan QR codes to access websites, decode product barcodes, create custom QR codes, or make seamless UPI transactions with popular payment apps like PhonePe, Paytm, and Google Pay, this app has you covered. It's your all-in-one tool for instant information access and secure mobile payments.
